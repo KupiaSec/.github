@@ -13,4 +13,4 @@ We believe in earning your trust through transparent excellence.
 ## Contact
 - 📧 Email: 	audits@xket.org
 - 🐦 Twitter: [@KupiaSecurity](https://twitter.com/KupiaSecurity)
-- [Request audit](https://tally.so/forms/nWrWgR)
+- 🤝 [Request audit](https://tally.so/forms/nWrWgR)
