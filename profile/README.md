@@ -1,7 +1,7 @@
 # Kupia Security 🔐
 
 ## Partner
-[Cyfrin](https://twitter.com/CyfrinAudits), one of the leading security organizations in the world, is currently engaged in developing an innovative audit model developed by [Hans](https://twitter.com/hansfriese).
+[Cyfrin](https://twitter.com/CyfrinAudits), one of the leading security organizations in the world, is working on an innovative audit model developed by [Hans](https://twitter.com/hansfriese).
 We are super excited to be the first one to try it out!
 
 ## Team
