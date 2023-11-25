@@ -20,7 +20,7 @@ Our OG auditors also reported severl bugs in public bug bounty platforms - [Immu
 
 We believe in earning your trust through transparent excellence.
 
-✨ At Kupia Security, we're not just auditors; we're partners in your success. Our goal is to empower you to build with confidence, knowing that your project is fortified by our unwavering commitment to security.
+Check our complete portfolio [here](https://github.com/KupiaSec/portfolio).
 
 ## Competitive & Transparent
 Our pricing is transparent.
