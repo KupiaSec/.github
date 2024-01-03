@@ -37,7 +37,7 @@ The whole audit process is shared transparently with the client using the GitHub
 
 ## Team
 - 🧑‍⚖️ Advisor: [Hans](https://twitter.com/hansfriese)
-- 🥷 Lead Researchers: [auditor0517](https://twitter.com/auditor0517)
+- 🥷 Lead Researchers: [auditor0517](https://twitter.com/auditor0517) [cr0cx](https://twitter.com/malicator)
 - 🧑‍💼 Researchers: Everywhere
 
 ## Contact
