@@ -26,8 +26,8 @@ Check our complete portfolio [here](https://github.com/KupiaSec/portfolio).
 Our pricing is transparent.
 ```solidity
 uint256 SLOC = get_sloc_metrics(); // e.g. 1000 lines of Solidity code
-uint256 D = SLOC / 100; // 10 work days for 1000 SLOC // @audit rounding down!
-uint256 P = D * 2000e6; // 20K USDC
+uint256 D = SLOC / 200; // 5 business days for 1000 SLOC // @audit rounding down!
+uint256 P = D * 2000e6; // 10K USDC
 ```
 The pricing is very competitive while several auditors are engaged.
 - We have an OG auditor as a lead on each audit.
@@ -41,7 +41,7 @@ The whole audit process is shared transparently with the client using the GitHub
 - 🧑‍💼 Researchers: Everywhere
 
 ## Contact
-- 📧 Email: 	audits@xket.org
+- 📧 Email: admin@kupia.io
 - 🐦 Twitter: [@KupiaSecurity](https://twitter.com/KupiaSecurity)
 - 🤝 Engage: [Request audit](https://tally.so/r/nWrWgR)
-- 🌐 Website: [kupia.io](https://www.kupia.io/)
+- 🌐 Website: [www.kupia.io](https://www.kupia.io/)
