@@ -36,7 +36,6 @@ The pricing is very competitive while several auditors are engaged.
 The whole audit process is shared transparently with the client using the GitHub project board.
 
 ## Team
-- 🧑‍⚖️ Advisor: [Hans](https://twitter.com/hansfriese)
 - 🥷 Lead Researchers: [auditor0517](https://twitter.com/auditor0517) [Marco Croc](https://twitter.com/malicator)
 - 🧑‍💼 Researchers: Everywhere
 
