@@ -14,9 +14,9 @@ Following the most advanced security audit process, we ensure the integrity and 
 
 🏆 We go beyond words. Kupia Security proves its prowess on public contest platforms like Code4rena and Sherlock, showcasing our skills and expertise in real-time challenges. 
 
-KupiaSec team is recognized in major public contest platforms - [Code4rena](https://code4rena.com/leaderboard) [Sherlock](https://audits.sherlock.xyz/leaderboard), [CodeHawks](https://code4rena.com/leaderboard).
+KupiaSec is recognized in major public contest platforms - [Code4rena](https://code4rena.com/leaderboard), [Sherlock](https://audits.sherlock.xyz/leaderboard), and [CodeHawks](https://code4rena.com/leaderboard).
 
-Our OG auditors also reported severl bugs in public bug bounty platforms - [Immunefie](https://immunefi.com/leaderboard/), [HackenProof](https://hackenproof.com/programs), [Certik](https://skynet.certik.com/leaderboards/bug-bounty).
+Our Lead auditors also reported several bugs in public bug bounty platforms - [Immunefi](https://immunefi.com/leaderboard/)
 
 We believe in earning your trust through transparent excellence.
 
@@ -30,10 +30,10 @@ uint256 D = SLOC / 200; // 5 business days for 1000 SLOC // @audit rounding down
 uint256 P = D * 2000e6; // 10K USDC
 ```
 The pricing is very competitive while several auditors are engaged.
-- We have an OG auditor as a lead on each audit.
+- We have one Lead auditor for each audit.
 - At least 3 other auditors will be in the second phase.
 
-The whole audit process is shared transparently with the client using the GitHub project board.
+The audit process is shared transparently with the client using the GitHub project board.
 
 ## Team
 - 🥷 Lead Researchers: [auditor0517](https://twitter.com/auditor0517) [Marco Croc](https://twitter.com/malicator)
