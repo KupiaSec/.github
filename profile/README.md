@@ -14,7 +14,7 @@ Following the most advanced security audit process, we ensure the integrity and 
 
 🏆 We go beyond words. Kupia Security proves its prowess on public contest platforms like Code4rena and Sherlock, showcasing our skills and expertise in real-time challenges. 
 
-KupiaSec is recognized in major public contest platforms - [Code4rena](https://code4rena.com/leaderboard), [Sherlock](https://audits.sherlock.xyz/leaderboard), and [CodeHawks](https://code4rena.com/leaderboard).
+KupiaSec is recognized in major public contest platforms - [Code4rena](https://code4rena.com/leaderboard), [Sherlock](https://audits.sherlock.xyz/leaderboard), and [CodeHawks](https://profiles.cyfrin.io/u/kupiasec).
 
 Our Lead auditors also reported several bugs in public bug bounty platforms - [Immunefi](https://immunefi.com/leaderboard/)
 
@@ -23,12 +23,6 @@ We believe in earning your trust through transparent excellence.
 Check our complete portfolio [here](https://github.com/KupiaSec/portfolio).
 
 ## Competitive & Transparent
-Our pricing is transparent.
-```solidity
-uint256 SLOC = get_sloc_metrics(); // e.g. 1000 lines of Solidity code
-uint256 D = SLOC / 200; // 5 business days for 1000 SLOC // @audit rounding down!
-uint256 P = D * 2000e6; // 10K USDC
-```
 The pricing is very competitive while several auditors are engaged.
 - We have one Lead auditor for each audit.
 - At least 3 other auditors will be in the second phase.
