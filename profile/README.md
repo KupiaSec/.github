@@ -14,7 +14,7 @@ Following the most advanced security audit process, we ensure the integrity and 
 
 🏆 We go beyond words. Kupia Security proves its prowess on public contest platforms like Code4rena and Sherlock, showcasing our skills and expertise in real-time challenges. 
 
-KupiaSec is recognized in major public contest platforms - [Code4rena](https://code4rena.com/leaderboard), [Sherlock](https://audits.sherlock.xyz/leaderboard), and [CodeHawks](https://profiles.cyfrin.io/u/kupiasec).
+KupiaSec is recognized in major public contest platforms - [Code4rena](https://code4rena.com/leaderboard), [Sherlock](https://audits.sherlock.xyz/leaderboard), [Cantina](https://cantina.xyz/u/KupiaSec) and [CodeHawks](https://profiles.cyfrin.io/u/kupiasec).
 
 Our Lead auditors also reported several bugs in public bug bounty platforms - [Immunefi](https://immunefi.com/leaderboard/)
 
