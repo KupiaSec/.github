@@ -3,6 +3,7 @@ _Official Website at [kupia.io](https://www.kupia.io/)_
 
 ## Model
 KupiaSec is a distinguished smart contract audit firm verified through public contests.
+
 KupiaSec employs a Multi-Phase Audit (MPA) process for Private Audits, which consists of a **Solo Audit by a Lead Auditor**, an **Internal Competition** among all auditors, and a **Mitigation Review** to address the findings.
 
 ## What We Do
