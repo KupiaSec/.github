@@ -3,7 +3,7 @@ _Official Website at [kupia.io](https://www.kupia.io/)_
 
 ## Model
 KupiaSec is a distinguished smart contract audit firm verified through public contests.
-KupiaSec employs a [Multi-Phase Audit (MPA)](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2wLrli4OmSaWiS8fXVUZ%2Fuploads%2FF27bi4xOgnXwDYeHS68f%2FDC%20Multi-Phase%20Audit.pdf?alt=media&token=c2ffdb11-13c7-439d-8acf-50e9fdff471e) process for the Private Audits, which consists of a **Solo Audit by a Lead Auditor**, an **Internal Competition** among all auditors, and a **Mitigation Review** to address the findings.
+KupiaSec employs a Multi-Phase Audit (MPA) process for Private Audits, which consists of a **Solo Audit by a Lead Auditor**, an **Internal Competition** among all auditors, and a **Mitigation Review** to address the findings.
 
 ## What We Do
 💎 We specialize in conducting cutting-edge security audits for protocols in the exciting world of web3.
@@ -12,7 +12,7 @@ Following the most advanced security audit process, we ensure the integrity and 
 ##  Why Choose Us?
 🚀 Resting is not in our vocabulary, as we persistently endeavor to explore and embrace the finest audit processes and tools, all in the pursuit of excellence in audit quality.
 
-🏆 We go beyond words. Kupia Security proves its prowess on public contest platforms like Code4rena and Sherlock, showcasing our skills and expertise in real-time challenges. 
+🏆 We go beyond words. Kupia Security proves its prowess on public contest platforms, showcasing our skills and expertise in real-time challenges. 
 
 KupiaSec is recognized in major public contest platforms - [Code4rena](https://code4rena.com/leaderboard), [Sherlock](https://audits.sherlock.xyz/leaderboard), [Cantina](https://cantina.xyz/u/KupiaSec) and [CodeHawks](https://profiles.cyfrin.io/u/kupiasec).
 
